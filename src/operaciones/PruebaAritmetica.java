@@ -21,6 +21,7 @@ public class PruebaAritmetica {
 
         result= ar1.sumarArgumentos(1,3);
         System.out.println("result = " + result);
+        System.out.println("cabio de prueba");
     }
 
     public static void miMetodo(){
