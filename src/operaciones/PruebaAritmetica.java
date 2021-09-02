@@ -23,6 +23,7 @@ public class PruebaAritmetica {
         System.out.println("result = " + result);
         System.out.println("cabio de prueba");
         System.out.println("msg prueba 2");
+        System.out.println("msg prueba 3");
     }
 
     public static void miMetodo(){
